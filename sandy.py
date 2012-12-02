@@ -109,7 +109,7 @@ if __name__ == "__main__":
     #        json.dump(centers, json_file)
     shelters = get_fema_shelters()
     shelters.extend(get_warming_centers_nyc())
-    shelters.extend(get_warming_centers_suffolk())
+    #shelters.extend(get_warming_centers_suffolk())
     with open('all_warming.json', 'w') as json_file:
         json.dump(shelters, json_file, indent=4)
 
