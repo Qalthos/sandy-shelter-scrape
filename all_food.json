@@ -1,0 +1,47 @@
+{
+    "Brooklyn": {
+        "Prepared/Hot Food Distribution Sites": [
+            "MCU Park", 
+            "IKEA\u2014Free Meal Coupon: Coffey Park, 85 Richards Street, Red Hook", 
+            "Fine Fare Supermarket", 
+            "Searise Houses"
+        ], 
+        "Emergency Food Activity Programs": [
+            "Kingsborough Community College\u2019s Pantry: 2001 Oriental Blvd., Coney Island Heidi Lopez, Maria Mandara, Natasha Boatsw.:", 
+            "Salt & Sea Mission", 
+            "Bed Stuy Campaign Against Hunger", 
+            "Reaching Out Community Services", 
+            "Tomche Shobbos of Borough Park", 
+            "St John\u2019s Bread and Life"
+        ], 
+        "American Red Cross Mobile Food Sites": [
+            "Coffey Park: 85 Richards Street, Red Hook", 
+            "Gravesend Houses: West 33 rd Street and Neptune Avenue, Sea Gate", 
+            "2828 Neptune Avenue, Coney Island", 
+            "Gerritsen Beach Fire Department: Seba Avenue between Canton Court and Dare Court"
+        ]
+    }, 
+    "Staten Island": {
+        "Prepared/Hot Food Distribution Sites": [
+            "Siller Foundation: 2361 Hylan Boulevard"
+        ]
+    }, 
+    "Queens": {
+        "American Red Cross Mobile Food Sites": [
+            "Christ Community Church: Rockaway Point Boulevard and 208st, Breezy Point", 
+            "St. Francis de Sales: Rockaway Beach Boulevard at Beach 129th Street", 
+            "Church of the Nazarene: 1414 Central Ave., Far Rockaway", 
+            "87-15 Rockaway Beach Blvd."
+        ], 
+        "Emergency Food Activity Programs": [
+            "Aids Center of Queens County", 
+            "United Methodist Center", 
+            "St. Gertrude Church", 
+            "St. Mary Star of the Sea: 19-20 New Haven Avenue, Far Rockaway Susan Singh-Smith:", 
+            "First Presbyterian Russell Sage Memorial", 
+            "Jewish Services Coalition", 
+            "J.U.S.T.I.C.E", 
+            "River Fund: 89-11 Lefferts Blvd., Richmond Hill Swami Durga Das:"
+        ]
+    }
+}
