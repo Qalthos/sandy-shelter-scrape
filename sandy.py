@@ -92,6 +92,54 @@ def get_fema_shelters():
     return json_data['features']
 
 
+def get_food_list():
+    url = "http://www.nyc.gov/html/misc/html/2012/hot_food.html"
+    soup = BeautifulSoup(urlopen(url),
+        parse_only=SoupStrainer('table', id="content_table"))
+    food_areas = {}
+    current_county = None
+    for p_tag in soup.find_all('p'):
+        if p_tag.em:
+            # p > em is the updated string.
+            # We could pull this but I don't care about it right now.
+            continue
+        elif p_tag.b:
+            if not current_county:
+                # We haven't scraped a county name yet, something went wrong
+                continue
+            food_type = ' '.join(p_tag.stripped_strings)
+            food_type = remove_stupid_whitespace(food_type)
+            collected_places = []
+            try:
+                first_tag = p_tag.find_next_sibling('ul').contents[0]
+                for li_tag in first_tag.find_next_siblings('li'):
+                    details = ' '.join(li_tag.stripped_strings)
+                    details = remove_stupid_whitespace(details)
+                    collected_places.append(details)
+            except AttributeError:
+                # Last p tag has a b, but is just a note, no more text to scrape
+                break
+            food_areas[current_county][food_type] = collected_places
+        elif p_tag.span:
+            # p > span is county name
+            current_county = ' '.join(p_tag.stripped_strings)
+            current_county = remove_stupid_whitespace(current_county)
+            food_areas[current_county]= {}
+
+    return food_areas
+
+
+def remove_stupid_whitespace(string):
+    tokens = string.split()
+    final_string = []
+    for token in tokens:
+        if token[0] == '(':
+            break
+        final_string.append(token)
+
+    return ' '.join(final_string)
+
+
 def strip_and_dump(soup, tag):
     centers = []
     for element in soup.find_all(tag):
@@ -101,6 +149,7 @@ def strip_and_dump(soup, tag):
             centers.append(center)
 
     return centers
+
 
 if __name__ == "__main__":
     #for area in warming:
@@ -112,4 +161,6 @@ if __name__ == "__main__":
     shelters.extend(get_warming_centers_suffolk())
     with open('all_warming.json', 'w') as json_file:
         json.dump(shelters, json_file, indent=4)
-
+    food = get_food_list()
+    with open('all_food.json', 'w') as json_file:
+        json.dump(food, json_file, indent=4)
