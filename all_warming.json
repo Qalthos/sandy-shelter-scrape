@@ -5,7 +5,7 @@
             "x": -73.59291307499997
         }, 
         "attributes": {
-            "TOTAL_POPULATION": 218, 
+            "TOTAL_POPULATION": 67, 
             "CITY": "GARDEN CITY", 
             "POST_IMPACT_CAPACITY": 1150, 
             "MATCH_TYPE": "A", 
@@ -29,12 +29,12 @@
             "x": -74.068759874000023
         }, 
         "attributes": {
-            "TOTAL_POPULATION": 57, 
+            "TOTAL_POPULATION": 26, 
             "CITY": "STATEN ISLAND", 
             "POST_IMPACT_CAPACITY": 30, 
             "MATCH_TYPE": "A", 
             "ZIP": "10305", 
-            "OBJECTID": 4, 
+            "OBJECTID": 2, 
             "EVACUATION_CAPACITY": 61, 
             "ORG_ID": 121425, 
             "SHELTER_NAME": "Mt Manresa Jesuit Retreat Center", 
@@ -53,12 +53,12 @@
             "x": -74.074857150000014
         }, 
         "attributes": {
-            "TOTAL_POPULATION": 149, 
+            "TOTAL_POPULATION": 121, 
             "CITY": "STATEN ISLAND", 
             "POST_IMPACT_CAPACITY": 0, 
             "MATCH_TYPE": "A", 
             "ZIP": "10304", 
-            "OBJECTID": 5, 
+            "OBJECTID": 3, 
             "EVACUATION_CAPACITY": 150, 
             "ORG_ID": 121425, 
             "SHELTER_NAME": "Bailey Seton", 
@@ -77,12 +77,12 @@
             "x": -73.912086999999957
         }, 
         "attributes": {
-            "TOTAL_POPULATION": 12, 
+            "TOTAL_POPULATION": 22, 
             "CITY": "BRONX", 
             "POST_IMPACT_CAPACITY": 200, 
             "MATCH_TYPE": null, 
             "ZIP": "10454", 
-            "OBJECTID": 6, 
+            "OBJECTID": 4, 
             "EVACUATION_CAPACITY": 0, 
             "ORG_ID": 121425, 
             "SHELTER_NAME": "Powers", 
@@ -101,12 +101,12 @@
             "x": -73.937366801999957
         }, 
         "attributes": {
-            "TOTAL_POPULATION": 60, 
+            "TOTAL_POPULATION": 32, 
             "CITY": "MANHATTAN", 
             "POST_IMPACT_CAPACITY": 54, 
             "MATCH_TYPE": "A", 
             "ZIP": "10035", 
-            "OBJECTID": 8, 
+            "OBJECTID": 5, 
             "EVACUATION_CAPACITY": 0, 
             "ORG_ID": 121425, 
             "SHELTER_NAME": "128th Street Annex", 
@@ -122,8 +122,8 @@
     {
         "attributes": {
             "CITY": "BROOKLYN", 
-            "ADDRESS": "2880 WEST 12TH STREET", 
-            "SHELTER_NAME": "JASA LUNA PARK SENIOR CENTER", 
+            "ADDRESS": "2880 WEST 12TH    STREET", 
+            "SHELTER_NAME": "JASA    LUNA PARK SENIOR CENTER", 
             "HOURS_OPEN": null, 
             "STATE": "NY", 
             "HOURS_CLOSE": null
@@ -132,7 +132,7 @@
     {
         "attributes": {
             "CITY": "BROOKLYN", 
-            "ADDRESS": "2298 WEST 8TH STREET", 
+            "ADDRESS": "2298    WEST 8TH STREET", 
             "SHELTER_NAME": "MARLBORO SENIOR CENTER", 
             "HOURS_OPEN": null, 
             "STATE": "NY", 
@@ -142,7 +142,7 @@
     {
         "attributes": {
             "CITY": "BROOKLYN", 
-            "ADDRESS": "1960 EAST 7TH STREET", 
+            "ADDRESS": "1960    EAST 7TH STREET", 
             "SHELTER_NAME": "OCEAN PARKWAY SENIOR CITIZENS CENTER", 
             "HOURS_OPEN": null, 
             "STATE": "NY", 
@@ -152,7 +152,7 @@
     {
         "attributes": {
             "CITY": "BROOKLYN", 
-            "ADDRESS": "283 PROSPECT AVENUE", 
+            "ADDRESS": "283    PROSPECT AVENUE", 
             "SHELTER_NAME": "PROSPECT HILL SENIOR SERVICES CENTER", 
             "HOURS_OPEN": null, 
             "STATE": "NY", 
@@ -161,18 +161,8 @@
     }, 
     {
         "attributes": {
-            "CITY": "BROOKLYN", 
-            "ADDRESS": "47 VANDALIA AVENUE", 
-            "SHELTER_NAME": "VANDALIA SENIOR CENTER", 
-            "HOURS_OPEN": null, 
-            "STATE": "NY", 
-            "HOURS_CLOSE": null
-        }
-    }, 
-    {
-        "attributes": {
             "CITY": "MANHATTAN", 
-            "ADDRESS": "155 EAST 22ND STREET", 
+            "ADDRESS": "155    EAST 22ND STREET", 
             "SHELTER_NAME": "COMMUNITY LOUNGE SENIOR CENTER", 
             "HOURS_OPEN": null, 
             "STATE": "NY", 
@@ -182,7 +172,7 @@
     {
         "attributes": {
             "CITY": "MANHATTAN", 
-            "ADDRESS": "334 MADISON STREET", 
+            "ADDRESS": "334    MADISON STREET", 
             "SHELTER_NAME": "GOOD COMPANIONS NUTRITION", 
             "HOURS_OPEN": null, 
             "STATE": "NY", 
@@ -192,7 +182,7 @@
     {
         "attributes": {
             "CITY": "MANHATTAN", 
-            "ADDRESS": "280 CHERRY STREET", 
+            "ADDRESS": "280    CHERRY STREET", 
             "SHELTER_NAME": "LA GUARDIA SENIOR CENTER", 
             "HOURS_OPEN": null, 
             "STATE": "NY", 
@@ -202,7 +192,7 @@
     {
         "attributes": {
             "CITY": "MANHATTAN", 
-            "ADDRESS": "441 WEST 26TH", 
+            "ADDRESS": "441    WEST 26TH", 
             "SHELTER_NAME": "ELLIOT CHELSEA NORC", 
             "HOURS_OPEN": null, 
             "STATE": "NY", 
@@ -211,18 +201,8 @@
     }, 
     {
         "attributes": {
-            "CITY": "STATEN ISLAND", 
-            "ADDRESS": "85 JEROME AVENUE", 
-            "SHELTER_NAME": "ARROCHAR FRIENDSHIP CLUB SENIOR CENTER", 
-            "HOURS_OPEN": null, 
-            "STATE": "NY", 
-            "HOURS_CLOSE": null
-        }
-    }, 
-    {
-        "attributes": {
-            "CITY": "STATEN ISLAND", 
-            "ADDRESS": "1297ARTHUR KILL ROAD", 
+            "CITY": "STATEN    ISLAND", 
+            "ADDRESS": "1297ARTHUR    KILL ROAD", 
             "SHELTER_NAME": "JCC SOUTH SHORE SENIOR CENTER", 
             "HOURS_OPEN": null, 
             "STATE": "NY", 
@@ -231,19 +211,9 @@
     }, 
     {
         "attributes": {
-            "CITY": "STATEN ISLAND", 
-            "ADDRESS": "125 CASSIDY PLACE", 
-            "SHELTER_NAME": "CASSIDY COLES SENIOR CENTER", 
-            "HOURS_OPEN": null, 
-            "STATE": "NY", 
-            "HOURS_CLOSE": null
-        }
-    }, 
-    {
-        "attributes": {
-            "CITY": "STATEN ISLAND", 
-            "ADDRESS": "1466 MANOR ROAD", 
-            "SHELTER_NAME": "JCC OF STATEN ISLAND INNOVATIVE SR\r\n                              CTR", 
+            "CITY": "STATEN    ISLAND", 
+            "ADDRESS": "1466    MANOR ROAD", 
+            "SHELTER_NAME": "JCC OF STATEN ISLAND INNOVATIVE SR CTR", 
             "HOURS_OPEN": null, 
             "STATE": "NY", 
             "HOURS_CLOSE": null

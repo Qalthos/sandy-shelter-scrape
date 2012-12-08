@@ -2,27 +2,20 @@
     "Brooklyn": {
         "Prepared/Hot Food Distribution Sites": [
             "MCU Park", 
-            "IKEA\u2014Free Meal Coupon: Coffey Park, 85 Richards Street, Red Hook", 
-            "Fine Fare Supermarket", 
-            "Searise Houses"
+            "IKEA\u2014Free Meal Coupon: Coffey Park, 85 Richards Street, Red Hook"
         ], 
         "Emergency Food Activity Programs": [
-            "Kingsborough Community College\u2019s Pantry: 2001 Oriental Blvd., Coney Island Heidi Lopez, Maria Mandara, Natasha Boatsw.:", 
-            "Salt & Sea Mission", 
-            "Bed Stuy Campaign Against Hunger", 
-            "Reaching Out Community Services", 
-            "Tomche Shobbos of Borough Park", 
-            "St John\u2019s Bread and Life"
-        ], 
-        "American Red Cross Mobile Food Sites": [
-            "Coffey Park: 85 Richards Street, Red Hook", 
-            "Gravesend Houses: West 33 rd Street and Neptune Avenue, Sea Gate", 
-            "2828 Neptune Avenue, Coney Island", 
-            "Gerritsen Beach Fire Department: Seba Avenue between Canton Court and Dare Court"
+            "Kingsborough Community College\u2019s Food Pantry: 2001 Oriental Blvd., Coney Island Heidi Lopez; Maria Mandara; Natasha Boatsw:", 
+            "Haber House", 
+            "JASA Shorefront", 
+            "Shorefront Jewish Community Council", 
+            "Congregation MeorHachaim of Luna Park", 
+            "Movement of Pentecostal Christian Church"
         ]
     }, 
     "Staten Island": {
         "Prepared/Hot Food Distribution Sites": [
+            "Mount Loretto: 6581 Hylan Boulevard", 
             "Siller Foundation: 2361 Hylan Boulevard"
         ]
     }, 
@@ -34,14 +27,7 @@
             "87-15 Rockaway Beach Blvd."
         ], 
         "Emergency Food Activity Programs": [
-            "Aids Center of Queens County", 
-            "United Methodist Center", 
-            "St. Gertrude Church", 
-            "St. Mary Star of the Sea: 19-20 New Haven Avenue, Far Rockaway Susan Singh-Smith:", 
-            "First Presbyterian Russell Sage Memorial", 
-            "Jewish Services Coalition", 
-            "J.U.S.T.I.C.E", 
-            "River Fund: 89-11 Lefferts Blvd., Richmond Hill Swami Durga Das:"
+            "A.I.D.S. Center of Queens County"
         ]
     }
 }
