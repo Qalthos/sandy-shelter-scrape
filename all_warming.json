@@ -5,7 +5,7 @@
             "x": -73.59291307499997
         }, 
         "attributes": {
-            "TOTAL_POPULATION": 67, 
+            "TOTAL_POPULATION": 72, 
             "CITY": "GARDEN CITY", 
             "POST_IMPACT_CAPACITY": 1150, 
             "MATCH_TYPE": "A", 
@@ -29,7 +29,7 @@
             "x": -74.068759874000023
         }, 
         "attributes": {
-            "TOTAL_POPULATION": 26, 
+            "TOTAL_POPULATION": 49, 
             "CITY": "STATEN ISLAND", 
             "POST_IMPACT_CAPACITY": 30, 
             "MATCH_TYPE": "A", 
@@ -53,7 +53,7 @@
             "x": -74.074857150000014
         }, 
         "attributes": {
-            "TOTAL_POPULATION": 121, 
+            "TOTAL_POPULATION": 120, 
             "CITY": "STATEN ISLAND", 
             "POST_IMPACT_CAPACITY": 0, 
             "MATCH_TYPE": "A", 
@@ -77,7 +77,7 @@
             "x": -73.912086999999957
         }, 
         "attributes": {
-            "TOTAL_POPULATION": 22, 
+            "TOTAL_POPULATION": 10, 
             "CITY": "BRONX", 
             "POST_IMPACT_CAPACITY": 200, 
             "MATCH_TYPE": null, 
@@ -101,7 +101,7 @@
             "x": -73.937366801999957
         }, 
         "attributes": {
-            "TOTAL_POPULATION": 32, 
+            "TOTAL_POPULATION": 35, 
             "CITY": "MANHATTAN", 
             "POST_IMPACT_CAPACITY": 54, 
             "MATCH_TYPE": "A", 
