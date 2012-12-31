@@ -5,12 +5,12 @@
             "x": -74.068759874000023
         }, 
         "attributes": {
-            "TOTAL_POPULATION": 30, 
+            "TOTAL_POPULATION": 26, 
             "CITY": "STATEN ISLAND", 
             "POST_IMPACT_CAPACITY": 30, 
             "MATCH_TYPE": "A", 
             "ZIP": "10305", 
-            "OBJECTID": 3, 
+            "OBJECTID": 1, 
             "EVACUATION_CAPACITY": 61, 
             "ORG_ID": 121425, 
             "SHELTER_NAME": "Mt Manresa Jesuit Retreat Center", 
@@ -29,12 +29,12 @@
             "x": -74.074857150000014
         }, 
         "attributes": {
-            "TOTAL_POPULATION": 103, 
+            "TOTAL_POPULATION": 105, 
             "CITY": "STATEN ISLAND", 
             "POST_IMPACT_CAPACITY": 0, 
             "MATCH_TYPE": "A", 
             "ZIP": "10304", 
-            "OBJECTID": 4, 
+            "OBJECTID": 2, 
             "EVACUATION_CAPACITY": 150, 
             "ORG_ID": 121425, 
             "SHELTER_NAME": "Bailey Seton", 
@@ -53,12 +53,12 @@
             "x": -73.937366801999957
         }, 
         "attributes": {
-            "TOTAL_POPULATION": 18, 
+            "TOTAL_POPULATION": 30, 
             "CITY": "MANHATTAN", 
             "POST_IMPACT_CAPACITY": 54, 
             "MATCH_TYPE": "A", 
             "ZIP": "10035", 
-            "OBJECTID": 5, 
+            "OBJECTID": 3, 
             "EVACUATION_CAPACITY": 0, 
             "ORG_ID": 121425, 
             "SHELTER_NAME": "128th Street Annex", 
