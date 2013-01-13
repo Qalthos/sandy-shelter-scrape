@@ -5,7 +5,7 @@
             "x": -74.068759874000023
         }, 
         "attributes": {
-            "TOTAL_POPULATION": 12, 
+            "TOTAL_POPULATION": 18, 
             "CITY": "STATEN ISLAND", 
             "POST_IMPACT_CAPACITY": 30, 
             "MATCH_TYPE": "A", 
@@ -29,7 +29,7 @@
             "x": -74.074857150000014
         }, 
         "attributes": {
-            "TOTAL_POPULATION": 31, 
+            "TOTAL_POPULATION": 89, 
             "CITY": "STATEN ISLAND", 
             "POST_IMPACT_CAPACITY": 0, 
             "MATCH_TYPE": "A", 
@@ -53,7 +53,7 @@
             "x": -73.937366801999957
         }, 
         "attributes": {
-            "TOTAL_POPULATION": 19, 
+            "TOTAL_POPULATION": 13, 
             "CITY": "MANHATTAN", 
             "POST_IMPACT_CAPACITY": 54, 
             "MATCH_TYPE": "A", 
