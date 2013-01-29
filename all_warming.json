@@ -5,12 +5,12 @@
             "x": -74.074857150000014
         }, 
         "attributes": {
-            "TOTAL_POPULATION": 65, 
+            "TOTAL_POPULATION": 52, 
             "CITY": "STATEN ISLAND", 
             "POST_IMPACT_CAPACITY": 0, 
             "MATCH_TYPE": "A", 
             "ZIP": "10304", 
-            "OBJECTID": 3, 
+            "OBJECTID": 4, 
             "EVACUATION_CAPACITY": 150, 
             "ORG_ID": 121425, 
             "SHELTER_NAME": "Bailey Seton", 
@@ -21,30 +21,6 @@
             "ORG_NAME": "GREATER  NEW YORK  CHAPTER", 
             "SHELTER_STATUS": "OPEN", 
             "ADDRESS": "79 Vanderbilt Ave"
-        }
-    }, 
-    {
-        "geometry": {
-            "y": 40.806797853000042, 
-            "x": -73.937366801999957
-        }, 
-        "attributes": {
-            "TOTAL_POPULATION": 15, 
-            "CITY": "MANHATTAN", 
-            "POST_IMPACT_CAPACITY": 54, 
-            "MATCH_TYPE": "A", 
-            "ZIP": "10035", 
-            "OBJECTID": 4, 
-            "EVACUATION_CAPACITY": 0, 
-            "ORG_ID": 121425, 
-            "SHELTER_NAME": "128th Street Annex", 
-            "HOURS_CLOSE": null, 
-            "HOURS_OPEN": null, 
-            "STATE": "NY", 
-            "SHELTER_ID": 349160, 
-            "ORG_NAME": "GREATER  NEW YORK  CHAPTER", 
-            "SHELTER_STATUS": "OPEN", 
-            "ADDRESS": "104 W. 128th Street"
         }
     }, 
     {
