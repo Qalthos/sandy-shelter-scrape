@@ -1,29 +1,5 @@
 [
     {
-        "geometry": {
-            "y": 40.621354520000033, 
-            "x": -74.074857150000014
-        }, 
-        "attributes": {
-            "TOTAL_POPULATION": 52, 
-            "CITY": "STATEN ISLAND", 
-            "POST_IMPACT_CAPACITY": 0, 
-            "MATCH_TYPE": "A", 
-            "ZIP": "10304", 
-            "OBJECTID": 3, 
-            "EVACUATION_CAPACITY": 150, 
-            "ORG_ID": 121425, 
-            "SHELTER_NAME": "Bailey Seton", 
-            "HOURS_CLOSE": null, 
-            "HOURS_OPEN": null, 
-            "STATE": "NY", 
-            "SHELTER_ID": 349021, 
-            "ORG_NAME": "GREATER  NEW YORK  CHAPTER", 
-            "SHELTER_STATUS": "OPEN", 
-            "ADDRESS": "79 Vanderbilt Ave"
-        }
-    }, 
-    {
         "attributes": {
             "CITY": "BRONX", 
             "ADDRESS": "1315 FRANKLIN AVENUE", 
