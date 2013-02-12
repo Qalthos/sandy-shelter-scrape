@@ -10,7 +10,7 @@
             "POST_IMPACT_CAPACITY": 0, 
             "MATCH_TYPE": "A", 
             "ZIP": "10304", 
-            "OBJECTID": 9, 
+            "OBJECTID": 3, 
             "EVACUATION_CAPACITY": 150, 
             "ORG_ID": 121425, 
             "SHELTER_NAME": "Bailey Seton", 
@@ -29,12 +29,12 @@
             "x": -73.9048339
         }, 
         "attributes": {
-            "TOTAL_POPULATION": 34, 
+            "TOTAL_POPULATION": 37, 
             "CITY": "BROOKLYN", 
             "POST_IMPACT_CAPACITY": 100, 
             "MATCH_TYPE": null, 
             "ZIP": "11233", 
-            "OBJECTID": 31, 
+            "OBJECTID": 10, 
             "EVACUATION_CAPACITY": 0, 
             "ORG_ID": null, 
             "SHELTER_NAME": "Kings Hotel", 
@@ -53,12 +53,12 @@
             "x": -73.612951699999982
         }, 
         "attributes": {
-            "TOTAL_POPULATION": 126, 
+            "TOTAL_POPULATION": 61, 
             "CITY": "HEMPSTEAD", 
             "POST_IMPACT_CAPACITY": 150, 
             "MATCH_TYPE": null, 
             "ZIP": "11550", 
-            "OBJECTID": 32, 
+            "OBJECTID": 11, 
             "EVACUATION_CAPACITY": 150, 
             "ORG_ID": null, 
             "SHELTER_NAME": "The Kennedy Center", 
