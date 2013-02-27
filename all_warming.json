@@ -5,12 +5,12 @@
             "x": -73.9048339
         }, 
         "attributes": {
-            "TOTAL_POPULATION": 37, 
+            "TOTAL_POPULATION": 38, 
             "CITY": "BROOKLYN", 
             "POST_IMPACT_CAPACITY": 100, 
             "MATCH_TYPE": null, 
             "ZIP": "11233", 
-            "OBJECTID": 4, 
+            "OBJECTID": 8, 
             "EVACUATION_CAPACITY": 0, 
             "ORG_ID": null, 
             "SHELTER_NAME": "Kings Hotel", 
@@ -34,7 +34,7 @@
             "POST_IMPACT_CAPACITY": 0, 
             "MATCH_TYPE": "A", 
             "ZIP": "10304", 
-            "OBJECTID": 6, 
+            "OBJECTID": 13, 
             "EVACUATION_CAPACITY": 150, 
             "ORG_ID": 121425, 
             "SHELTER_NAME": "Bailey Seton", 
