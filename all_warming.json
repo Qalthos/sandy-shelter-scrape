@@ -29,12 +29,12 @@
             "x": -74.074857150000014
         }, 
         "attributes": {
-            "TOTAL_POPULATION": 71, 
+            "TOTAL_POPULATION": 69, 
             "CITY": "STATEN ISLAND", 
             "POST_IMPACT_CAPACITY": 0, 
             "MATCH_TYPE": "A", 
             "ZIP": "10304", 
-            "OBJECTID": 13, 
+            "OBJECTID": 11, 
             "EVACUATION_CAPACITY": 150, 
             "ORG_ID": 121425, 
             "SHELTER_NAME": "Bailey Seton", 
