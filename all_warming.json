@@ -5,7 +5,7 @@
             "x": -73.9048339
         }, 
         "attributes": {
-            "TOTAL_POPULATION": 0, 
+            "TOTAL_POPULATION": 53, 
             "CITY": "BROOKLYN", 
             "POST_IMPACT_CAPACITY": 100, 
             "MATCH_TYPE": null, 
@@ -29,12 +29,12 @@
             "x": -74.074857150000014
         }, 
         "attributes": {
-            "TOTAL_POPULATION": 21, 
+            "TOTAL_POPULATION": 51, 
             "CITY": "STATEN ISLAND", 
             "POST_IMPACT_CAPACITY": 0, 
             "MATCH_TYPE": "A", 
             "ZIP": "10304", 
-            "OBJECTID": 8, 
+            "OBJECTID": 7, 
             "EVACUATION_CAPACITY": 150, 
             "ORG_ID": 121425, 
             "SHELTER_NAME": "Bailey Seton", 
