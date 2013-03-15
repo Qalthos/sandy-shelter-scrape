@@ -1,26 +1,26 @@
 [
     {
         "geometry": {
-            "y": 43.033128206000043, 
-            "x": -75.001026543000037
+            "y": 40.841673399999991, 
+            "x": -73.711682199999998
         }, 
         "attributes": {
-            "TOTAL_POPULATION": 15, 
-            "CITY": "HERKIMER", 
-            "POST_IMPACT_CAPACITY": 336, 
-            "MATCH_TYPE": "A", 
-            "ZIP": "13350", 
-            "OBJECTID": 2, 
-            "EVACUATION_CAPACITY": 672, 
-            "ORG_ID": 121179, 
-            "SHELTER_NAME": "Herkimer County Community College", 
+            "TOTAL_POPULATION": 29, 
+            "CITY": "PRT WASHINGTN", 
+            "POST_IMPACT_CAPACITY": 100, 
+            "MATCH_TYPE": null, 
+            "ZIP": "11050", 
+            "OBJECTID": 4, 
+            "EVACUATION_CAPACITY": 100, 
+            "ORG_ID": 121425, 
+            "SHELTER_NAME": "Port Washington Senior Center", 
             "HOURS_CLOSE": null, 
             "HOURS_OPEN": null, 
             "STATE": "NY", 
-            "SHELTER_ID": 217653, 
-            "ORG_NAME": "ARC of MOHAWK VALLEY", 
+            "SHELTER_ID": 349776, 
+            "ORG_NAME": "GREATER  NEW YORK  CHAPTER", 
             "SHELTER_STATUS": "OPEN", 
-            "ADDRESS": "100 Reservoir Road"
+            "ADDRESS": "80 Manorhaven Boulevard"
         }
     }, 
     {
@@ -34,7 +34,7 @@
             "POST_IMPACT_CAPACITY": 100, 
             "MATCH_TYPE": null, 
             "ZIP": "11233", 
-            "OBJECTID": 7, 
+            "OBJECTID": 5, 
             "EVACUATION_CAPACITY": 0, 
             "ORG_ID": null, 
             "SHELTER_NAME": "Kings Hotel", 
@@ -53,12 +53,12 @@
             "x": -74.074857150000014
         }, 
         "attributes": {
-            "TOTAL_POPULATION": 15, 
+            "TOTAL_POPULATION": 20, 
             "CITY": "STATEN ISLAND", 
             "POST_IMPACT_CAPACITY": 0, 
             "MATCH_TYPE": "A", 
             "ZIP": "10304", 
-            "OBJECTID": 10, 
+            "OBJECTID": 7, 
             "EVACUATION_CAPACITY": 150, 
             "ORG_ID": 121425, 
             "SHELTER_NAME": "Bailey Seton", 
