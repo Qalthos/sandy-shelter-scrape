@@ -10,7 +10,7 @@
             "POST_IMPACT_CAPACITY": 100, 
             "MATCH_TYPE": null, 
             "ZIP": "11233", 
-            "OBJECTID": 9, 
+            "OBJECTID": 5, 
             "EVACUATION_CAPACITY": 0, 
             "ORG_ID": null, 
             "SHELTER_NAME": "Kings Hotel", 
@@ -29,12 +29,12 @@
             "x": -74.074857150000014
         }, 
         "attributes": {
-            "TOTAL_POPULATION": 20, 
+            "TOTAL_POPULATION": 64, 
             "CITY": "STATEN ISLAND", 
             "POST_IMPACT_CAPACITY": 0, 
             "MATCH_TYPE": "A", 
             "ZIP": "10304", 
-            "OBJECTID": 13, 
+            "OBJECTID": 7, 
             "EVACUATION_CAPACITY": 150, 
             "ORG_ID": 121425, 
             "SHELTER_NAME": "Bailey Seton", 
