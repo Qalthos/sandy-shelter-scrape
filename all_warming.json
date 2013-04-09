@@ -5,7 +5,7 @@
             "x": -73.9048339
         }, 
         "attributes": {
-            "TOTAL_POPULATION": 63, 
+            "TOTAL_POPULATION": 56, 
             "CITY": "BROOKLYN", 
             "POST_IMPACT_CAPACITY": 100, 
             "MATCH_TYPE": null, 
@@ -29,7 +29,7 @@
             "x": -74.074857150000014
         }, 
         "attributes": {
-            "TOTAL_POPULATION": 15, 
+            "TOTAL_POPULATION": 16, 
             "CITY": "STATEN ISLAND", 
             "POST_IMPACT_CAPACITY": 0, 
             "MATCH_TYPE": "A", 
