@@ -1,6 +1,30 @@
 [
     {
         "geometry": {
+            "y": 41.004122810000034, 
+            "x": -73.670983220999943
+        }, 
+        "attributes": {
+            "TOTAL_POPULATION": 10, 
+            "CITY": "PORT CHESTER", 
+            "POST_IMPACT_CAPACITY": 20, 
+            "MATCH_TYPE": "A", 
+            "ZIP": "10573", 
+            "OBJECTID": 1, 
+            "EVACUATION_CAPACITY": 20, 
+            "ORG_ID": 121944, 
+            "SHELTER_NAME": "Carver Center Ymca", 
+            "HOURS_CLOSE": null, 
+            "HOURS_OPEN": null, 
+            "STATE": "NY", 
+            "SHELTER_ID": 218445, 
+            "ORG_NAME": "WESTCHESTER COUNTY", 
+            "SHELTER_STATUS": "OPEN", 
+            "ADDRESS": "400 Westchester Ave"
+        }
+    }, 
+    {
+        "geometry": {
             "y": 40.675673000000039, 
             "x": -73.9048339
         }, 
@@ -10,7 +34,7 @@
             "POST_IMPACT_CAPACITY": 100, 
             "MATCH_TYPE": null, 
             "ZIP": "11233", 
-            "OBJECTID": 4, 
+            "OBJECTID": 5, 
             "EVACUATION_CAPACITY": 0, 
             "ORG_ID": null, 
             "SHELTER_NAME": "Kings Hotel", 
@@ -29,12 +53,12 @@
             "x": -74.074857150000014
         }, 
         "attributes": {
-            "TOTAL_POPULATION": 10, 
+            "TOTAL_POPULATION": 17, 
             "CITY": "STATEN ISLAND", 
             "POST_IMPACT_CAPACITY": 0, 
             "MATCH_TYPE": "A", 
             "ZIP": "10304", 
-            "OBJECTID": 7, 
+            "OBJECTID": 8, 
             "EVACUATION_CAPACITY": 150, 
             "ORG_ID": 121425, 
             "SHELTER_NAME": "Bailey Seton", 
