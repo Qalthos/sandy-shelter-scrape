@@ -129,6 +129,35 @@ def get_food_list():
     return food_areas
 
 
+def get_volunteer_locations():
+    url = "http://www.ujafedny.org/hurricane-sandy-volunteer-opportunities/"
+    soup = BeautifulSoup(urlopen(url),
+        parse_only=SoupStrainer('div', class_='content'))
+
+    # We are looking for a <p> whose first tag is an empty string tag and whose
+    # second tag is an <a> tag.
+    volunteer = {}
+    current_location = ''
+    for p_tag in soup.find_all('p'):
+        if p_tag.find('i'):
+            # We're done here.
+            break
+        elif p_tag.find('a'):
+            # The (first) a tag defines what kind of voluneers are needed.
+            current_location = p_tag.find('a').string
+            volunteer[current_location] = dict(notes=[])
+            for b_tag in p_tag.find_all('b'):
+                if not b_tag.text.strip():
+                    continue
+                volunteer[current_location][b_tag.text] = b_tag.next_sibling
+        else:
+            if current_location:
+                text = ' '.join(p_tag.stripped_strings)
+                volunteer[current_location]['notes'].append(text)
+
+    return volunteer
+
+
 def remove_stupid_whitespace(string):
     tokens = string.split()
     final_string = []
@@ -158,9 +187,13 @@ if __name__ == "__main__":
     #        json.dump(centers, json_file)
     shelters = get_fema_shelters()
     shelters.extend(get_warming_centers_nyc())
+    # Broken: moved to a flash applet
     #shelters.extend(get_warming_centers_suffolk())
     with open('all_warming.json', 'w') as json_file:
         json.dump(shelters, json_file, indent=4)
     food = get_food_list()
     with open('all_food.json', 'w') as json_file:
         json.dump(food, json_file, indent=4)
+    volunteer = get_volunteer_locations()
+    with open('volunteer.json', 'w') as json_file:
+        json.dump(volunteer, json_file, indent=4)

@@ -1960,6 +1960,10 @@
         }
     }, 
     {
+        "geometry": {
+            "y": 40.62135452000003, 
+            "x": -74.07485715000001
+        }, 
         "attributes": {
             "CITY": "QUEENS", 
             "ADDRESS": "131 BEACH 19TH STREET", 
@@ -1970,6 +1974,10 @@
         }
     }, 
     {
+        "geometry": {
+            "y": 40.808097999999994, 
+            "x": -73.91208699999996
+        }, 
         "attributes": {
             "CITY": "QUEENS", 
             "ADDRESS": "86-25 FRANCIS LEWIS BLVD", 
